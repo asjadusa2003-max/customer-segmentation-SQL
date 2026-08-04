@@ -69,7 +69,7 @@ Business Recommendations
 
 ### Business KPIs
 
-![Business KPIs](screenshots/OverallKPIs.png)
+[Business KPIs](screenshots/OverallKPIs.png)
 
 
 
@@ -81,7 +81,7 @@ Business Recommendations
 
 ### Customer Segments
 
-![Customer Segments](screenshots/Customer Segments .png)
+[Customer Segments](screenshots/Customer Segments .png)
 
 ---
 
