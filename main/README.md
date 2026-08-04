@@ -69,7 +69,7 @@ Business Recommendations
 
 ### Business KPIs
 
-![Business KPIs](screenshots/Overall KPIs.png)
+![Business KPIs](screenshots/OverallKPIs.png)
 
 
 
