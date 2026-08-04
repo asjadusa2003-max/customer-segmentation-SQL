@@ -92,31 +92,31 @@ Business Recommendations
 
 ## Monthly Revenue
 
-![Monthly Revenue](screenshots/Monthly Revenue.png)
+![Monthly Revenue](screenshots/Monthly_Revenue.png)
 
 ---
 
 ## Customer Segments
 
-![Customer Segments](screenshots/Customer Segments.png)
+![Customer Segments](screenshots/Customer_Segments.png)
 
 ---
 
 ## Revenue by Segment
 
-![Revenue by Segment](screenshots/Revenue by Segment.png)
+![Revenue by Segment](screenshots/Revenue_by_Segment.png)
 
 ---
 
 ## Top Products
 
-![Top Products](screenshots/Top Products.png)
+![Top Products](screenshots/Top_Products.png)
 
 ---
 
 ## Data Preview
 
-![Data Preview](screenshots/Data Preview.png)
+![Data Preview](screenshots/Data_Preview.png)
 
 ---
 
