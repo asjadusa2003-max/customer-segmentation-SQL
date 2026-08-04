@@ -81,13 +81,13 @@ Business Recommendations
 
 ### Customer Segments
 
-![Customer Segments](screenshots/customer_segments.png)
+![Customer Segments](screenshots/Customer Segments .png)
 
 ---
 
 ### Revenue by Segment
 
-![Revenue by Segment](screenshots/revenue_by_segment.png)
+![Revenue by Segment](screenshots/revenue_by_segment .png)
 
 ---
 
