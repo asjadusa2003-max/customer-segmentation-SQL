@@ -69,13 +69,13 @@ Business Recommendations
 
 ### Business KPIs
 
-![Business KPIs](screenshots/Overall KPIs.png)
+![Business KPIs](screenshots/Overall_KPIs.png)
 
 
 
 ### Monthly Revenue
 
-![Monthly Revenue](screenshots/monthly_Revenue.png)
+![Monthly Revenue](screenshots/Monthly_Revenue.png)
 
 ---
 
